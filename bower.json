@@ -2,7 +2,7 @@
 	"name": "travis-ci-exp",
 	"description": "test repo to experiment with automated publishing",
 	"license": "MIT",
-	"version": "4.5.6",
+	"version": "5.0.0",
 	"authors": [
 		{ "name": "Zp Bappi", "email": "zpbappi@gmail.com", "homepage": "http://zpbappi.com" }
 	],
